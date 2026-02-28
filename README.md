@@ -1,6 +1,6 @@
-line added from github
+
 # Fitphile - AI-Powered Exercise Tracker
-#hi hellooo byeeee
+
 
 ## Overview
 Fitphile is a Flask-based AI-powered fitness tracking application that uses **MediaPipe Pose** to track and count exercise reps in real-time. It supports exercises such as push-ups, squats, lunges, and planks while providing real-time feedback and voice notifications.
